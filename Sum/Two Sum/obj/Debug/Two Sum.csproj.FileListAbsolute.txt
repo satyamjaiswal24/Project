@@ -5,3 +5,10 @@ D:\Project\Two Sum\Two Sum\obj\Debug\Two Sum.csproj.AssemblyReference.cache
 D:\Project\Two Sum\Two Sum\obj\Debug\Two Sum.csproj.CoreCompileInputs.cache
 D:\Project\Two Sum\Two Sum\obj\Debug\Two Sum.exe
 D:\Project\Two Sum\Two Sum\obj\Debug\Two Sum.pdb
+D:\Project\Sum\Two Sum\bin\Debug\Two Sum.exe.config
+D:\Project\Sum\Two Sum\bin\Debug\Two Sum.exe
+D:\Project\Sum\Two Sum\bin\Debug\Two Sum.pdb
+D:\Project\Sum\Two Sum\obj\Debug\Two Sum.csproj.AssemblyReference.cache
+D:\Project\Sum\Two Sum\obj\Debug\Two Sum.csproj.CoreCompileInputs.cache
+D:\Project\Sum\Two Sum\obj\Debug\Two Sum.exe
+D:\Project\Sum\Two Sum\obj\Debug\Two Sum.pdb

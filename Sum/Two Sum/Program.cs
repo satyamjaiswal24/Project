@@ -11,7 +11,7 @@ namespace Two_Sum
         static void Main(string[] args)
         {
             int a = 10, b = 25;
-            Console.WriteLine(a + b);
+            Console.WriteLine($"The Sum is: {a+b}");
             Console.Read();
         }
     }
